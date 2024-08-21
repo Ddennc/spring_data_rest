@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>spring_data_rest_</artifactId>
+    <artifactId>spring_data_jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_data_rest_</name>
-    <description>spring_data_rest_</description>
+    <name>spring_data_jpa</name>
+    <description>spring_data_jpa</description>
     <url/>
     <licenses>
         <license/>
@@ -37,18 +37,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-rest</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-actuator</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
         <dependency>
